@@ -43,3 +43,6 @@ Then create the `submissions` table with the SQL in `supabase/schema.sql` and cr
 1. Push the repository to GitHub.
 2. Import it in Vercel.
 3. Vercel will build the Vue app and serve the API from `api/` automatically.
+
+
+kuykuynahee
